@@ -49,17 +49,6 @@ Certificate pinning can enhance security by preventing MITM attacks but introduc
 - Graceful degradation
 - Evaluate risks and benefits
 
-## Authors
-- Yash Khosla 
-- Deep Bhavesh Gajiwala 
-- Devina Shah 
-- Meet Rakeshbhai Patel 
-- Pratiksha Ashok Kumar Pole 
-- Rohan Yogeshkumar Modi 
-- Simran Kaur 
-- Snehpreet Kaur 
-
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
